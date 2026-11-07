@@ -1,0 +1,10 @@
+ATIVO — PILOTO GRATUITO
+
+1. Para publicar: acesse https://app.netlify.com/drop/ e envie a pasta ativo-piloto (ou o ZIP descompactado).
+2. Copie o link HTTPS gerado pelo Netlify e compartilhe com as duas pessoas convidadas.
+3. Cada pessoa usa o aplicativo no próprio celular, sem conta. Os dados ficam no navegador dela.
+4. Para carregar seus dois gastos de 06/11/2026, no SEU aparelho toque em Restaurar e escolha o arquivo ativo-meus-gastos-iniciais.json. NÃO compartilhe esse arquivo com os outros testadores.
+5. Para relatórios: veja o resumo da semana no painel e exporte CSV. A notificação automática ainda não existe.
+6. Faça Backup JSON regularmente. Apagar dados do navegador ou trocar de celular pode causar perda dos lançamentos.
+7. Esta versão NÃO oferece cadastro, recuperação de senha, sincronização nem IA em nuvem. Não insira dados bancários, números de cartão ou senhas.
+8. O nome ATIVO é provisório e não teve disponibilidade jurídica confirmada.
